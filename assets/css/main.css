@@ -2758,11 +2758,9 @@
 		height: calc( 100vh - 28em );
 		min-height: 8em;
 		width: 100%;
-		background-color: #313a3d;
-		background-attachment: inherit;
+		border-bottom: 2px dashed #dddddd;
 		background-image: url("../../images/resume.png");
 		background-position: top center;
-		background-repeat: none;
 		background-size: cover;
 	}
 

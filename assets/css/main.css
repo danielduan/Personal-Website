@@ -2754,6 +2754,18 @@
 		min-height: calc( 100vh - 20em );
 	}
 
+	#footer .container .content .resume {
+		height: calc( 100vh - 28em );
+		min-height: 8em;
+		width: 100%;
+		background-color: #313a3d;
+		background-attachment: inherit;
+		background-image: url("../../images/resume.png");
+		background-position: top center;
+		background-repeat: none;
+		background-size: cover;
+	}
+
 	#footer {
 		padding: 0 0 12em 0;
 		position: relative;
